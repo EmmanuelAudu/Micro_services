@@ -10,7 +10,7 @@ zuul:
       url: http://34.125.235.163:1002/api/v1
     wishlist:
       path: /wishlist/**
-      url: http://34.125.235.163.22:1003
+      url: http://34.125.235.163:1003
     cart:
       path: /cart/**
       url: http://34.125.235.163:1004/api/v1
